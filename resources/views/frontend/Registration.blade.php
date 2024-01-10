@@ -285,7 +285,7 @@
                         <a class="text-decoration-underline" href="https://www.livepay.gr/ccbs-1.aspx" target="_blank">https://www.livepay.gr/ccbs-1.aspx</a>
                         <br>
                         Instructions on how to pay with LivePay <b><a class="text-decoration-underline"
-                                                                      href="pdf/livepay-instructions.pdf">here</a></b>.
+                                                                      href="#">here</a></b>.
                     </p>
 
                     <p class="mb-2">
